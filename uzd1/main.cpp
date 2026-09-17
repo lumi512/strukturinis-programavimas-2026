@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-	string vardas = "Jonas";
-	string pavarde = "Joniukas";
+	string vardas = "Lukas";
+	string pavarde = "Mikalauskas";
 
 	int amzius = 19;
 	int grupe = 1;
