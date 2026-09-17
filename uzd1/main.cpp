@@ -12,7 +12,7 @@ int main()
 	int grupe = 1;
 
 	string kursas = "Strukturinis programavimas";
-	string programa = "Programos pavadinimas";
+	string programa = "Programu sistemos";
 
 	cout << "Vardas: " << vardas << endl;
 	cout << "Pavarde: " << pavarde << endl;
