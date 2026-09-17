@@ -1,0 +1,1 @@
+add_executable(uzd5 main.cpp)
